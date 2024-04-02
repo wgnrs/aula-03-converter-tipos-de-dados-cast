@@ -1,0 +1,14 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\bin\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\bin\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\bin\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\bin\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\bin\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\refint\aula-03-converter-tipos-de-dados-cast.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\aula-03-converter-tipos-de-dados-cast.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Conversão de tipos de dados\aula-03-converter-tipos-de-dados-cast\obj\Debug\net8.0\ref\aula-03-converter-tipos-de-dados-cast.dll
